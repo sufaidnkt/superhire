@@ -27,11 +27,13 @@ Input genre (type q to quit) >>
 ## Solution
 
 for running the solution you need to have nodejs installed on your machine.
+$ npm install
 
 $ node index.js data/data.json
 
 for running the tests
 $ npm install --save-dev jest
+
 $ npm test
 
 []: # (END README.md)
